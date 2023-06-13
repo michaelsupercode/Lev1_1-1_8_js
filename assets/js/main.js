@@ -30,17 +30,17 @@ let five = text.replace("codingschool", "tennis");
 document.write(five + "<br>");
 
 //Lev1_8//
-//let elev = text.replace("Sam", "sam").replace("to", "at").replace("codingschool", "school");
-//let twel = text.replace("Sam", "SAM").replace("codingschool", "SCHOOL");
-//let thirt = text.replace("Sam", "sam").replace("is", "IS").replace("going", "GOING").replace("to", "TO").replace("codingschool", "school");
-//let fourt = text.replace("is", "Is").replace("going", "Going").replace("to", "To").replace("codingschool", "School");
+// let elev = text.replace("Sam", "sam").replace("to", "at").replace("codingschool", "school");
+// let twel = text.replace("Sam", "SAM").replace("codingschool", "SCHOOL");
+// let thirt = text.replace("Sam", "sam").replace("is", "IS").replace("going", "GOING").replace("to", "TO").replace("codingschool", "school");
+// let fourt = text.replace("is", "Is").replace("going", "Going").replace("to", "To").replace("codingschool", "School");
 
-//document.write(text.toUpperCase() + "<br>");
-//document.write(elev + "<br>");
-//document.write(twel + "<br>");
-//document.write(thirt + "<br>");
-//document.write(fourt + "<br>");
-//..finde den Fehler nicht..keine Lust mehr!!
+// document.write(text.toUpperCase() + "<br>");
+// document.write(elev + "<br>");
+// document.write(twel + "<br>");
+// document.write(thirt + "<br>");
+// document.write(fourt + "<br>");
+// ..finde den Fehler nicht..keine Lust mehr!!
 
 //Lev1_1//template_literals
 let output = document.getElementById("outer");
